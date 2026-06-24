@@ -1,0 +1,29 @@
+[
+    {
+        "id": 101,
+        "name": "Lakshmi Sahithi",
+        "course": "Computer Science",
+        "marks": {
+            "math": 95,
+            "physics": 88
+        }
+    },
+    {
+        "id": 102,
+        "name": "Vigneswari",
+        "course": "Electronics",
+        "marks": {
+            "math": 92,
+            "physics": 85
+        }
+    },
+    {
+        "id": 103,
+        "name": "Jhansi Thanuja",
+        "course": "Data Science",
+        "marks": {
+            "math": 89,
+            "physics": 94
+        }
+    }
+]

@@ -1,0 +1,1 @@
+Python is a versatile and beginner-friendly programming language. It is widely used in data science, web development, and automation. Because of its simple syntax, many people choose it as their first language to learn. Whether you are building a small script or a large application, Python provides the tools you need to succeed.
